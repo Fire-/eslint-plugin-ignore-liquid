@@ -1,0 +1,27 @@
+{
+  "name": "eslint-plugin-ignore-liquid",
+  "version": "0.0.1",
+  "description": "Ignore liquid expressions in ESLint",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "shopify",
+    "shopify-liquid",
+    "liquid"
+  ],
+  "author": "Devon Adkisson",
+  "main": "lib/index.js",
+  "homepage": "https://github.com/fire-/eslint-plugin-ignore-liquid",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fire-/eslint-plugin-ignore-liquid.git"
+  },
+  "devDependencies": {
+    "eslint": "~1.2.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "ISC"
+}
